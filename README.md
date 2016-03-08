@@ -1,4 +1,4 @@
-# Dashboard-app
+## Base Skeleton for Ember App
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
@@ -19,6 +19,14 @@ You will need the following things properly installed on your computer.
 * change into the new directory
 * `npm install`
 * `bower install`
+
+### Addon
+
+1. ember-cli-bootstrap-sassy - 0.5.2 (https://github.com/lifegadget/ember-cli-bootstrap-sassy)
+2. ember-cli-coffeescript - 1.13.2 (https://github.com/kimroen/ember-cli-coffeescript)
+3. ember-cli-mirage - 0.1.11 (https://github.com/samselikoff/ember-cli-mirage)
+4. ember-moment - 6.0.0 (https://github.com/stefanpenner/ember-moment)
+5. ember-cp-validations - 2.5.0 (https://github.com/offirgolan/ember-cp-validations)
 
 ## Running / Development
 
@@ -50,4 +58,3 @@ Specify what it takes to deploy your app.
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
-
