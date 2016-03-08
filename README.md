@@ -15,8 +15,9 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
+* `git clone <repository-url> <project-name>` this repository
 * change into the new directory
+* change `modulePrefix` inside `config/environment.js` to your project-name
 * `npm install`
 * `bower install`
 
